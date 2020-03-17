@@ -8,6 +8,8 @@ void setup() {
 
 
 void loop() {
+
+        //First name
         flash(200); flash(200); flash(200); // S
 
         delay(1000);
@@ -26,7 +28,49 @@ void loop() {
         
         flash(200); //E
         
+        delay(2000);
+        //Last Name
+        
+        flash(500); flash(500); flash(200); //G
+        
         delay(1000);
+        
+        flash(200); flash(200); flash(500); //U
+        
+        delay(1000);
+        
+        flash(200); flash(500); flash(200); //R
+        
+        delay(1000);
+        
+        flash(200); flash(200); flash(500); //U
+        
+        delay(1000);
+        
+        flash(200); flash(200); flash(200); // S
+
+        delay(1000);
+        
+        flash(200); flash(200); //I
+        
+        delay(1000);
+        
+        flash(500); flash(200); //N
+        
+        delay(1000);
+        
+        flash(500); flash(500); flash(200); //G
+        
+        delay(1000)
+        
+        flash(200); flash(200); flash(200); flash(200); // H
+
+        delay(1000);
+        
+        flash(200); flash(500); //A
+        
+        delay(1000);
+        
 
 }
 
